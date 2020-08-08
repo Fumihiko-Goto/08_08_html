@@ -1,0 +1,40 @@
+
+.box {
+    display: flex;
+    justify-content: center;
+}
+
+
+.box1{
+    /*背景色*/
+    background: red;
+
+    /*幅 w + 100px */
+    width: 100px;;
+
+    /*高さ*/
+    height: 100px;
+}
+
+.box2{
+    /*背景色*/
+    background: blue;
+
+    /*幅 w + 100px */
+    width: 100px;;
+
+    /*高さ*/
+    height: 100px;
+}
+
+.box3{
+    /*背景色*/
+    background: yellow;
+
+    /*幅 w + 100px */
+    width: 100px;;
+
+    /*高さ*/
+    height: 100px;
+}
+
